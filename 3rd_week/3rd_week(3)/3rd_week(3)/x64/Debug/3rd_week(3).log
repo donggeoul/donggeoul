@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\ldg19\OneDrive\문서\GitHub\donggeoul\2nd_week\3rd_week(3)\3rd_week(3)\소스.cpp(19,13): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+C:\Users\ldg19\OneDrive\문서\GitHub\donggeoul\2nd_week\3rd_week(3)\3rd_week(3)\소스.cpp(19,13): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\ldg19\OneDrive\문서\GitHub\donggeoul\2nd_week\3rd_week(3)\3rd_week(3)\소스.cpp(19,13): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\ldg19\OneDrive\문서\GitHub\donggeoul\2nd_week\3rd_week(3)\3rd_week(3)\소스.cpp(19,13): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+C:\Users\ldg19\OneDrive\문서\GitHub\donggeoul\2nd_week\3rd_week(3)\3rd_week(3)\소스.cpp(19,13): message : 누락된 variadic 인수 4이(가) 서식 문자열 '%d'에 필요합니다.
+  3rd_week(3).vcxproj -> C:\Users\ldg19\OneDrive\문서\GitHub\donggeoul\2nd_week\3rd_week(3)\x64\Debug\3rd_week(3).exe
